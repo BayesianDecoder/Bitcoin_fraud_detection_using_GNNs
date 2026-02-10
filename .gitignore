@@ -1,0 +1,9 @@
+# Ignore datasets
+*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+

@@ -24,6 +24,8 @@ This project uses graph analytics and GNNs to detect illicit transactions based 
 ## Dataset
 
 Elliptic Bitcoin Dataset:
+https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
+
 - Nodes: Bitcoin transactions
 - Edges: Flow of funds between transactions
 - Classes:
