@@ -109,6 +109,17 @@ Classify transactions as licit or illicit
 ### Visualizations
 
 
+#### GNN Model Comparison
+![](results.png)
+![](results2.png)
+
+#### Community Detection
+![](kmeans.png)
+![](louvain.png)
+![](LPA.png)
+![](node2vec.png)
+
+
 
 
 
